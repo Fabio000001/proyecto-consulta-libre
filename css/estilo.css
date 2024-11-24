@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+    /* Esto asegura que padding y border no sumen al ancho total */
+}
+
+a {
+    text-decoration: none;
+}
